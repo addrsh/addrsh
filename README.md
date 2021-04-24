@@ -1,7 +1,7 @@
 - 👋 Hi, myself Adarsh Sharma from India
 - 👀 I’m interested in Web development, Math, Machine Laerning and competitive Programming.
-- 🌱 I’m currently learning Web develpoment.
-- 💞️ I’m looking to collaborate on frontend projects. 
+- 🌱 I’m currently learning Web develpoment and Machine Learning.
+- 💞️ I’m looking to collaborate on frontend and Machine Learning projects. 
 - 📫 Reach me at adarshsharma6218@gmail.com or through my instagram @adarsh.simplified
 
 
