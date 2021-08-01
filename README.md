@@ -43,7 +43,7 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-sharma6218&show_icons=true&locale=en&layout=compact"
     alt="adarsh-sharma6218"
-    width="450"
+    width="400"
     height="200"
   />
 
@@ -51,7 +51,7 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=adarsh-sharma6218&show_icons=true&locale=en"
     alt="adarsh-sharma6218"
-    width="450"
+    width="400"
     height="200"
   />
 </p>
