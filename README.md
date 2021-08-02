@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-adarshsharma6218@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:adarshsharma6218@gmail.com)
 
 
+- 🖥️ My personal [website](https://adarshsharma.ml/)
+
 - 🔭 I’m currently working on **Amazon clone 2.O**
 
 - 🌱 I’m currently learning **TensorFlow, Deeplearning, Flask**
