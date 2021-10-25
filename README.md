@@ -43,27 +43,24 @@
 <p style="display: flex">
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-sharma6218&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-sharma6218&show_icons=true&locale=en&layout=compact&theme=yeblu"
     alt="adarsh-sharma6218"
     width="400"
     height="200"
   />
-
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=adarsh-sharma6218&show_icons=true&locale=en"
-    alt="adarsh-sharma6218"
-    width="400"
-    height="200"
-  />
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-sharma6218&theme=yeblu&show_icons=true)
+  
 </p>
-<p>
+<p style="display: flex">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-sharma6218&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-sharma6218&theme=yeblu"
     alt="adarsh-sharma6218"
   />
 </p>
+
+
 
 
 
