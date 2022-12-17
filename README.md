@@ -22,16 +22,18 @@
 
 <!-- - 📫 How to reach me -->
 
-- 📄 Here is my [resume](resume.adarshsharma.me)
+- 📄 Here is my [resume](https://firebasestorage.googleapis.com/v0/b/adarsh-sharma-a4a98.appspot.com/o/documents%2FAdarsh-Resume.pdf?alt=media&token=9850021d-56f8-4b55-bfca-35de91d3d776)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/adarshsharma-me/">
+<a href = "https://www.linkedin.com/in/adarshsharma-me/" target="blank">
 <img src= "https://img.shields.io/badge/Adarshsharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- <a href="www.instagram.com/adarshsharma.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarshsharma6218" /></a>
+<a href="https://www.instagram.com/adarshsharma.me/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarshsharma6218" /></a>
+ 
 <a href="https://codeforces.com/profile/adarshsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="adarshsharma" height="30" width="40" /></a>
 
 <!-- <a href="https://discord.com/channels/@me/825396333430177822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdarshSharma#0475" height="30" width="40" /></a> -->
