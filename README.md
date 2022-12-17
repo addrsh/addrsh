@@ -3,10 +3,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-sharma6218&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-sharma6218" /> </p> -->
 
-[![Gmail Badge](https://img.shields.io/badge/-adarshsharma6218@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:adarshsharma6218@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hello@adarshsharma.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:hello@adarshsharma.me)
 
 
-- 🖥️ My personal [website](https://adarshsharma.ml/)
+- 🖥️ My personal [website](adarshsharma.me)
 
 - 🔭 I’m currently working on **Amazon clone 2.O**
 
@@ -27,11 +27,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/adarsh-sharma6218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhhVGZ4F8ToG%2FwDq2Yhbn%2FQ%3D%3D">
+<a href = "https://www.linkedin.com/in/adarshsharma-me/">
 <img src= "https://img.shields.io/badge/Adarshsharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- <a href="https://instagram.com/adarshsharma6218" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarshsharma6218" /></a>
+ <a href="www.instagram.com/adarshsharma.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarshsharma6218" /></a>
 <a href="https://codeforces.com/profile/adarshsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="adarshsharma" height="30" width="40" /></a>
 
 <!-- <a href="https://discord.com/channels/@me/825396333430177822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdarshSharma#0475" height="30" width="40" /></a> -->
@@ -43,8 +43,8 @@
 <p style="display: flex">
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-sharma6218&show_icons=true&locale=en&layout=compact&theme=yeblu"
-    alt="adarsh-sharma6218"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsharma-me&show_icons=true&locale=en&layout=compact&theme=yeblu"
+    alt="adarshsharma-me"
     width="400"
     height="200"
   />
@@ -55,8 +55,8 @@
 <p style="display: flex">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-sharma6218&theme=yeblu"
-    alt="adarsh-sharma6218"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsharma-me&theme=yeblu"
+    alt="adarshsharma-me"
   />
 </p>
 
