@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate web developer and competitive programmer from India :)</h3>
+<h3 align="center"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-sharma6218&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-sharma6218" /> </p> -->
 
@@ -8,21 +8,21 @@
 
 - 🖥️ My personal [website](adarshsharma.me)
 
-- 🔭 I’m currently working on **Amazon clone 2.O**
+<!-- - 🔭 I’m currently working on **Amazon clone 2.O** -->
 
-- 🌱 I’m currently learning **TensorFlow, Deeplearning, Flask**
+- 🌱 I’m currently learning **Next.js & Blockchain**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Web apps and Web3.O projects**
 
-- 🤝 I’m looking for help with [Diabetic-Retinopathy-Detection](https://github.com/adarsh-sharma6218/Diabetic-Retinopathy-Detection)
+<!-- - 🤝 I’m looking for help with [Diabetic-Retinopathy-Detection](https://github.com/adarsh-sharma6218/Diabetic-Retinopathy-Detection) -->
 
 - 👨‍💻 All of my projects are available at my [github](https://github.com/adarsh-sharma6218?tab=repositories)
 
-- 💬 Ask me about **react, web development, machine learning**
+- 💬 Ask me about **React, Web Development, Machine Learning**
 
-- 📫 How to reach me **adarshsharma6218@gmail.com**
+<!-- - 📫 How to reach me -->
 
-- 📄 Here is my [resume](https://github.com/adarsh-sharma6218/Resume/blob/master/Resume%4029july%202021.pdf)
+- 📄 Here is my [resume](resume.adarshsharma.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +49,7 @@
     height="200"
   />
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-sharma6218&theme=yeblu&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshsharma-me&theme=yeblu&show_icons=true)
   
 </p>
 <p style="display: flex">
@@ -59,12 +59,3 @@
     alt="adarshsharma-me"
   />
 </p>
-
-
-
-
-
-<!---
-adarsh-sharma6218/adarsh-sharma6218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
