@@ -1,5 +1,3 @@
-Hey, My name is Adarsh. Currently studying CS @Grinnell College. Ex-sales and growth marketer @Camb.ai 
+hey, i'm adarsh and like you, i love building silly products. previously, i have built Camb.ai and loved it to its core. we started it from grounds up all the way till we raised its seed round and met some of craziest ytbuers on the planet. 
 
-If you are a fellow coding, startup, or marketing enthusiast, drop me a message on socials or hey@adarsh.sh
-
-This year join me as I take you to the best hackathons, meet some amazing people and build the coolest of projects. 
+if any of this sounds interesting, i'm just a chat away.
